@@ -19,14 +19,14 @@
 
 <div align="left">
   <a href="https://www.instagram.com/_joaoalencarl/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=#6A5ACD"/>
   </a>
   
   <a href="https:https://www.linkedin.com/in/joaoalencarlima/">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=#6A5ACD"/>
   </a>
   
-  <a href="https://discord.gg/236242650792067082" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
+  <a href="https://discord.gg/bD23BU7Rdg" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=#6A5ACD"/>
   </a>
 </div>
