@@ -14,14 +14,14 @@
 </p>
 
 <p align="left">
-  💌 vamos lá interagir, manda uma mensagem pra mim: ⤵️
+  💌 come on interact, sand me a menssage: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="jaal.profissional@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jaal.profissional@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="[#](https://www.linkedin.com/in/joaoalencarlima/)" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoalencarlima/" /></a>
 
   <a href="#" alt="WhatsApp">
