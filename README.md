@@ -60,5 +60,3 @@
 </p>
 
 ##
-
-![snake gif](https://github.com/Joaoalencarl/Joaoalencarl/blob/output/github-contribution-grid-snake.svg)
