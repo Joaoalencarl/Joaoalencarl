@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello! I'm João Antônio and I'm a fullstack developer. I am currently a <strong>Computer Science</strong> student at the    Federal University of Alagoas (UFAL) and I have been working as a freelancer for about 1 year.
+  Hello World! Eu sou João Antônio, estudante de <strong>Ciências da Computação</strong> atualmente estudando na Universidade Tiradentes (UNIT), e ex aluno do mesmo curso na Universidade Federal de Alagoas (UFAL). Atualmente atuo como desenvolvedor estagiário da Ford Motor Company atuando com Cloud Services e API REST
 </p>
 
 <p align="left">
