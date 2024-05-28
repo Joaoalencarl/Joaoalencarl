@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello World! Eu sou João Antônio, estudante de <strong>Ciências da Computação</strong> atualmente estudando na Universidade Tiradentes (UNIT), e ex aluno do mesmo curso na Universidade Federal de Alagoas (UFAL). Atualmente atuo como desenvolvedor estagiário da Ford Motor Company atuando com Cloud Services e API REST
+  Hello World! Eu sou João Antônio, estudante de <strong>Ciências da Computação</strong> atualmente no 6º Periodo especialista em desenvolvimento Back-end e atuante como fullStack
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>React.Js | Next.Js | MongoDB</strong>
+  💼 Tools: <strong>React.Js | Nest.Js | PostgreSQL</strong>
 </p>
 
 <p align="left">
